@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sourav Bandyopadhyay</h1>
+<h1 align="center">Hi 👋, I'm Sourav Bandyopadhya</h1>
 <h3 align="center">A diligent and enthusiastic full-stack developer. A creative and quick learner inclined towards building outcome-driven products. Looking for a role to enhance technical skills while working on challenging projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravbandyopadhyay&label=Profile%20views&color=0e82b4&style=flat-square" alt="souravbandyopadhyay" /> </p>
