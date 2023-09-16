@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sourav Bandyopadhyay</h1>
-<h3 align="center">A diligent and enthusiastic full-stack developer. A creative and quick learner inclined towards building outcome-driven products. Looking for a role to enhance technical skills while working on challenging projects.</h3>
+<h3 align="left">I’m a Software Developer by profession. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting-edge backend support.
+
+I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. I also frequently contribute to open source platform name Uiverse different reusable components. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravbandyopadhyay&label=Profile%20views&color=0e82b4&style=flat-square" alt="souravbandyopadhyay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravbandyopadhyay" alt="souravbandyopadhyay" /></a> </p>
+<p align="center" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravbandyopadhyay" alt="souravbandyopadhyay" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **dJango**
 
 - 👨‍💻 All of my projects are available at [https://souravbandyopadhyay.github.io/](https://souravbandyopadhyay.github.io/)
 
