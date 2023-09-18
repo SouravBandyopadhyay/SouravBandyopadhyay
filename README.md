@@ -1,35 +1,19 @@
-<h1 align="center">Hi 👋, I'm Sourav Bandyopadhyay</h1>
-<h3 align="left">I’m a Software Developer by profession. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting-edge backend support.
+### Hi there 👋, I'm Sourav Bandyopadhyay
+#### Bringing Ideas to Life Through Code: My GitHub Journey
+I’m a Software Developer by profession. Being a full-stack allows me to not only develop client-facing apps and websites but also develop them with cutting-edge backend support.
+I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. I also frequently contribute to an open-source platform named Uiverse with different reusable components.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. I also frequently contribute to open source platform name Uiverse different reusable components. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souravbandyopadhyay&label=Profile%20views&color=0e82b4&style=flat-square" alt="souravbandyopadhyay" /> </p>
+Skills: REACT JS / JS / HTML / CSS / TS / Python / MongoDB/ SQL
 
-<p align="center" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravbandyopadhyay" alt="souravbandyopadhyay" /></a> </p>
+- 🌱 I’m currently learning AWS 
+- 💬 Ask me about  MERN  
+- 📫 How to reach me: souravb.1998@gmail.com 
+- ⚡ Fun fact: Fun Fact: I never switch off Dark Mode! 😎🌙 
 
-- 🌱 I’m currently learning **dJango**
 
-- 👨‍💻 All of my projects are available at [https://souravbandyopadhyay.github.io/](https://souravbandyopadhyay.github.io/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SouravBandyopadhyay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/souravbandyopadhyay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://souravdev98.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/souravbandyopadhyay/)  
 
-- 💬 Ask me about **JavaScript, Html, CSS, React, NodeJS**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravBandyopadhyay&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SouravBandyopadhyay&theme=dark)  
 
-- 📫 How to reach me **souravb.1998@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X4JXImKhHJj_tv4Mcn1ZPy4uDV5boDwj/view?usp=sharing](https://drive.google.com/file/d/1X4JXImKhHJj_tv4Mcn1ZPy4uDV5boDwj/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/souravbandyopadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souravbandyopadhyay" height="30" width="40" /></a>
-<a href="https://codesandbox.com/souravb.1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="souravb.1998" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/souravb_1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="souravb_1998" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sourav_280598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourav_280598" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravbandyopadhyay&show_icons=true&theme=dark&locale=en&layout=compact" alt="souravbandyopadhyay" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravbandyopadhyay&show_icons=true&theme=dark&locale=en" alt="souravbandyopadhyay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravbandyopadhyay&theme=dark" alt="souravbandyopadhyay" /></p>
