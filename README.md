@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Sourav Bandyopadhyay
-#### Bringing Ideas to Life Through Code: My GitHub Journey
+# Hi there 👋, I'm Sourav Bandyopadhyay
+## Bringing Ideas to Life Through Code: My GitHub Journey
 I’m a Software Developer by profession. Being a full-stack allows me to not only develop client-facing apps and websites but also develop them with cutting-edge backend support.
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. I also frequently contribute to an open-source platform named Uiverse with different reusable components.
 
