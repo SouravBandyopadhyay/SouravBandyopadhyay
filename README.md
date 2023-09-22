@@ -6,8 +6,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 Skills: REACT JS / JS / HTML / CSS / TS / Python / MongoDB/ SQL
 
-- 🌱 I’m currently learning AWS 
-- 💬 Ask me about  MERN  
+- 🌱 I’m currently learning AWS, Django 
+- 💬 Ask me about  MERN 
 - 📫 How to reach me: souravb.1998@gmail.com 
 - ⚡ Fun fact: Fun Fact: I never switch off Dark Mode! 😎🌙 
 
