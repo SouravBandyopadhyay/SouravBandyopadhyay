@@ -4,7 +4,7 @@ I’m a Software Developer by profession. Being a full-stack allows me to not on
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. I also frequently contribute to an open-source platform named Uiverse with different reusable components.
 
 
-Skills: REACT JS / JS / HTML / CSS / TS / Python / MongoDB/ SQL
+Skills: REACT JS / JS / HTML / CSS / TS / Python / MongoDB/ SQL /AWS
 
 - 🌱 I’m currently learning AWS, Django 
 - 💬 Ask me about  MERN 
