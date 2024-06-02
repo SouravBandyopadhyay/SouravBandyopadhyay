@@ -16,4 +16,4 @@ Skills: REACT JS / JS / HTML / CSS / TS / Python / MongoDB/ SQL /AWS /Django
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravBandyopadhyay&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SouravBandyopadhyay&theme=dark)  
-
+[![roadmap.sh](https://roadmap.sh/card/tall/6635c3aa96279862ae99ad95?variant=light)](https://roadmap.sh)
