@@ -11,7 +11,7 @@ I’m a Software Developer by profession. Being a full-stack allows me to not on
 - 📫 How to reach me: [souravb.1998@gmail.com](mailto:souravb.1998@gmail.com)
 - ⚡ Fun fact: I never switch off Dark Mode! 😎🌙 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SouravBandyopadhyay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/souravbandyopadhyay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://souravdev98.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/souravbandyopadhyay/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg' alt='github' height='40'>](https://github.com/SouravBandyopadhyay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/souravbandyopadhyay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons/icons/hashnode.svg' alt='dev' height='40'>](https://souravdev98.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/souravbandyopadhyay/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravBandyopadhyay&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SouravBandyopadhyay&theme=dark)  
