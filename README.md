@@ -9,7 +9,7 @@ I’m a Software Developer by profession. Being a full-stack allows me to not on
 - 🌱 I’m currently learning AWS, Django 
 - 💬 Ask me about MERN 
 - 📫 How to reach me: [souravb.1998@gmail.com](mailto:souravb.1998@gmail.com)
-- Working On : https://design-patterns-gamma.vercel.app/
+- Working On: https://design-patterns-gamma.vercel.app/
 - ⚡ Fun fact: I never switch off Dark Mode! 😎🌙 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg' alt='github' height='40'>](https://github.com/SouravBandyopadhyay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/souravbandyopadhyay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons/icons/hashnode.svg' alt='dev' height='40'>](https://souravdev98.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/souravbandyopadhyay/)  
