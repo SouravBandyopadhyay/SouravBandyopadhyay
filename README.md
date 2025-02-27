@@ -1,10 +1,8 @@
 # Hi there 👋, I'm Sourav Bandyopadhyay
 
-## Crafting Solutions Through Code: My GitHub Story
+I’m a Software Engineer with a passion for turning ideas into reality. With 2 years of hands-on experience, I thrive as a full-stack developer, building seamless client-facing applications backed by robust, scalable systems. I enjoy designing architectures that are lightweight, powerful, and efficient—think distributed yet cohesive, elegant yet functional. I’m also an active contributor to *Universe*, an open-source platform where I create reusable components for the community.
 
-I’m a Software Engineer with a passion for turning ideas into reality. With 2 years of hands-on AWS experience, I thrive as a full-stack developer, building seamless client-facing applications backed by robust, scalable systems. I enjoy designing architectures that are lightweight, powerful, and efficient—think distributed yet cohesive, elegant yet functional. I’m also an active contributor to *Universe*, an open-source platform where I create reusable components for the community.
-
-**Skills:** React.js | JavaScript | TypeScript | HTML | CSS | Python | AWS | Django | MongoDB | SQL
+**Skills:** React.js | JavaScript | TypeScript | HTML | CSS | Python | AWS | Django | MongoDB | SQL |FastAPI  |NextJs
 
 - 🌱 **Currently sharpening:** AWS (2+ years and counting), Django  
 - 💬 **Ask me about:** MERN stack, cloud architecture, or backend optimization  
