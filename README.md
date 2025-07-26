@@ -7,7 +7,7 @@ I’m a Software Engineer with a passion for turning ideas into reality. With 2 
 - 🌱 **Currently sharpening:** AWS (2+ years and counting), Django  
 - 💬 **Ask me about:** MERN stack, cloud architecture, or backend optimization  
 - 📫 **Reach me at:** [souravb.1998@gmail.com](mailto:souravb.1998@gmail.com)  
-- 🛠 **Working on:** [Design Patterns](https://design-patterns-gamma.vercel.app/)  
+- 🛠 **Working on:** [Evoi AI](https://evoi.ai)  
 - ⚡ **Fun fact:** Dark Mode is my forever vibe! 😎🌙  
 
 ### Let's Connect  
